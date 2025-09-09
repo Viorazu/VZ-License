@@ -2,6 +2,11 @@
 
 This document catalogs English licensing phrases that are systematically mistranslated by machine translation systems, leading to unauthorized content usage.
 
+⚠️ Browser Translation Warning
+Chrome, Safari, Edge and other browser auto-translation features 
+may mistranslate these license terms. Please refer to the original 
+text rather than translated content.
+
 ## Warning
 
 **These phrases should be avoided in any licensing context where content may be translated by non-native speakers or machine translation systems.**
