@@ -134,7 +134,6 @@ Contributions welcome! Please:
 4. Share real-world usage experiences
 
 **Issues**: [Report problems or suggestions](../../issues)  
-**Discussions**: [Join framework discussions](../../discussions)
 
 ## Version History
 
