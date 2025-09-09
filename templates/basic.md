@@ -83,7 +83,7 @@ Framework Design: © 2025 Viorazu.
 
 ## Why This License is Effective
 
-**Common Problems:**
+**Machine Translation Problems:**
 - "Feel free to use" → Misunderstood as "unlimited usage OK"
 - "Translation permitted" → Misinterpreted as "translated content = free to use"
 - "AI assistance used" → Incorrectly assumed as "copyright-free"
@@ -129,7 +129,7 @@ Framework Design: © 2025 Viorazu.
 
 ## このライセンスが効果的な理由
 
-**従来の問題:**
+**従来の機械翻訳による誤訳問題:**
 - 「自由に使ってください」→「無制限利用OK」と誤解
 - 「翻訳してもらって構いません」→「翻訳したら自由利用可能」と誤認
 - 「AI使用」→「著作権フリー」という間違った認識
