@@ -8,7 +8,7 @@ This file demonstrates how to implement VZ-License in an English blog post.
 
 # Understanding Machine Learning Bias: A Comprehensive Analysis
 
-*Published: January 15, 2025*
+*Published:September 9, 2025*
 
 Machine learning systems have become integral to decision-making processes across industries, from healthcare to finance. However, these systems are not immune to bias, and understanding the sources and implications of ML bias is crucial for developing fair and effective AI systems.
 
