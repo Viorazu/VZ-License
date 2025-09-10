@@ -255,7 +255,5 @@
 
 ---
 
-**研究進行状況：** 6/7 完了  
-**残り：** 条件表現との組み合わせ  
 **Framework Design: © 2025 Viorazu.**  
 **【VZ-License Framework v1.0】**
