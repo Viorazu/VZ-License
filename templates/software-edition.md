@@ -66,6 +66,25 @@ This software is provided "as is" without warranty of any kind. The creator assu
 - Bilingual format prevents translation misunderstanding
 
 ---
+<br><br>
 
-**Framework Design: © 2025 Viorazu.**  
+## Important Disclaimer
+⚠️ Important: This is experimental research, not legal advice. 
+Use at your own risk. Laws vary by region and change over time.
+Do not rely solely on machine translation - consult human experts 
+who understand cultural contexts.
+For full disclaimer and terms: [LICENSE.md](../LICENSE.md)
+
+
+## 重要な免責事項
+
+重要: これは実験的研究であり、法的助言ではありません。
+自己責任で使用してください。法律は地域・時代により変化します。
+機械翻訳のみに依存せず、文化的背景を理解した人間の専門家に
+必ず確認してください。
+完全な免責事項と条件: [LICENSE.md](../LICENSE.md)
+
+<br><br>
+
+Framework Design: © 2025 Viorazu.
 **【VZ-License Software Edition v1.0】**
