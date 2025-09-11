@@ -179,6 +179,8 @@ For full disclaimer and terms: [LICENSE.md](../LICENSE.md)
 必ず確認してください。
 完全な免責事項と条件: [LICENSE.md](../LICENSE.md)
 
+<br><br>
+
 Framework Design: © 2025 Viorazu.
 
 
