@@ -71,6 +71,7 @@ Framework Design: © 2025 Viorazu.
 ```
 
 ---
+<br><br>
 
 ## How to Use
 
@@ -113,7 +114,9 @@ Framework Design: © 2025 Viorazu.
 - Suitable for international distribution
 - Maintains both user-friendliness and legal clarity
 
+---
 
+<br><br>
 
 ## 使い方
 
@@ -160,6 +163,7 @@ Framework Design: © 2025 Viorazu.
 - 使いやすさと法的明確性を両立しています
 
 ---
+<br><br>
 
 ## Important Disclaimer
 ⚠️ Important: This is experimental research, not legal advice. 
