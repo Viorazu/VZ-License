@@ -1,17 +1,17 @@
 © 2025 Viorazu. All rights reserved.
 
-🚫 Prohibited:
+## Prohibited
 - Full text copying & pasting
 - Unauthorized translation
 - AI-generated imitation or similar content
 - Commercial use without permission
 
-✅ Permitted:
+## Permitted
 - Partial citation with proper attribution
 - Summary sharing with source link
 - Educational reference use
 
-⚠️ Important: Translation does not grant usage rights
+**Important:** Translation does not grant usage rights
 
 
 
