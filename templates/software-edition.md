@@ -66,7 +66,7 @@ This software is provided "as is" without warranty of any kind. The creator assu
 - Bilingual format prevents translation misunderstanding
 
 ---
-<br><br>
+<br>
 
 ## Important Disclaimer
 ⚠️ Important: This is experimental research, not legal advice. 
@@ -84,7 +84,7 @@ For full disclaimer and terms: [LICENSE.md](../LICENSE.md)
 必ず確認してください。
 完全な免責事項と条件: [LICENSE.md](../LICENSE.md)
 
-<br><br>
+<br>
 
 Framework Design: © 2025 Viorazu.
 **【VZ-License Software Edition v1.0】**
