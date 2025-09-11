@@ -48,7 +48,7 @@ Framework Design: © 2025 Viorazu.
 Framework Design: © 2025 Viorazu.
 ```
 
-## Bilingual Version
+## Bilingual Version / 英日併記版
 
 ```
 © 2025 [Your Name/あなたの名前]. All rights reserved.
