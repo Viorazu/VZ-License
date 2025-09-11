@@ -66,6 +66,8 @@ Contact / 連絡先: [Your Email/メール]
 Framework Design: © 2025 Viorazu.
 ```
 
+---
+
 ## How to Use
 
 1. **Replace placeholders:**
@@ -153,13 +155,17 @@ Framework Design: © 2025 Viorazu.
 - 国際的な配信にも対応しています
 - 使いやすさと法的明確性を両立しています
 
+---
 
-
+## Important Disclaimer
 ⚠️ Important: This is experimental research, not legal advice. 
 Use at your own risk. Laws vary by region and change over time.
 Do not rely solely on machine translation - consult human experts 
 who understand cultural contexts.
-For full disclaimer and terms: [LICENSE.md]
+For full disclaimer and terms: [LICENSE.md](../LICENSE.md)
+
+
+## 重要な免責事項
 
 重要: これは実験的研究であり、法的助言ではありません。
 自己責任で使用してください。法律は地域・時代により変化します。
