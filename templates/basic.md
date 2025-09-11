@@ -165,7 +165,7 @@ For full disclaimer and terms: [LICENSE.md]
 自己責任で使用してください。法律は地域・時代により変化します。
 機械翻訳のみに依存せず、文化的背景を理解した人間の専門家に
 必ず確認してください。
-完全な免責事項と条件: [LICENSE.md]
+完全な免責事項と条件: [LICENSE.md](../LICENSE.md)
 
 Framework Design: © 2025 Viorazu.
 
