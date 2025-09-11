@@ -70,7 +70,7 @@ Contact / 連絡先: [Your Email/メール]
 Framework Design: © 2025 Viorazu.
 ```
 
----
+
 <br><br>
 
 ## How to Use
@@ -113,8 +113,6 @@ Framework Design: © 2025 Viorazu.
 - Particularly effective for AI-assisted content
 - Suitable for international distribution
 - Maintains both user-friendliness and legal clarity
-
----
 
 <br><br>
 
@@ -162,7 +160,7 @@ Framework Design: © 2025 Viorazu.
 - 国際的な配信にも対応しています
 - 使いやすさと法的明確性を両立しています
 
----
+
 <br><br>
 
 ## Important Disclaimer
