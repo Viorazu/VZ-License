@@ -38,21 +38,28 @@ The creator assumes no responsibility to the maximum extent permitted by law for
 - Data loss or corruption
 - Loss of business opportunities
 
+- 
 ### Legal Changes and Compliance / 法的変化への対応
-（既存の条項）
+- 法律は時代・地域により変化します
+- 最新の法的状況を必ず確認してください
+- 各地域の法務専門家に相談することを強く推奨します
+
+- Laws change over time and vary by region
+- Always verify current legal requirements
+- Strongly recommend consulting local legal experts
 
 ### Translation and Recognition Risks / 翻訳・認識リスクについて
-（既存の条項）
+翻訳誤解には2つの原因があります：
+1. **機械的バグ**: 翻訳技術の限界による誤訳
+2. **人間の思い込み**: 文化的前提・先入観による誤認識
 
+**対策**: 機械翻訳のみに依存せず、文化的背景を理解した人間の専門家に必ず確認してください。
 
-Contact: 
+Translation misunderstandings have two causes:
+1. **Technical Limitations**: Errors due to machine translation technology
+2. **Human Assumptions**: Misrecognition due to cultural biases and preconceptions
 
-Viorazu. - YouTube
-viorazu (@viorazu9134) - X
-https://note.com/viorazu - note
-
-
-
+**Solution**: Do not rely solely on machine translation. Always consult human experts who understand cultural contexts.
 
 Framework Design: © 2025 Viorazu.
 
