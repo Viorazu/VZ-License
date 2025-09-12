@@ -60,17 +60,6 @@ Ready-to-use license for blogs, articles, and general content. Available in Engl
 ### [Universal Template](templates/universal.md) 
 Highly customizable template with options for different content types, restriction levels, and use cases.
 
-## Implementation Examples
-
-See real-world usage examples for different platforms:
-
-- **[English Blog Posts](examples/blog-post-en.md)**: Professional blog implementation
-- **[Japanese Blog Posts](examples/blog-post-ja.md)**: Japanese content with cultural considerations  
-- **[GitHub README](examples/github-readme.md)**: Technical documentation licensing
-- **[Research Papers](examples/research-paper.md)**: Academic publication protection
-- **[Social Media](examples/social-media.md)**: Platform-specific adaptations
-- **[Twitter/X](examples/twitter-x.md)**: Character limit solutions
-
 ## Why VZ-License Works
 
 ### Translation-Safe Design
